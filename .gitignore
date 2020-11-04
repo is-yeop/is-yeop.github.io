@@ -5,6 +5,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 .sass-cache
+.vscode
 *.gem
 *.sublime-project
 *.sublime-workspace
