@@ -3,7 +3,7 @@ title: "Deno Tutorial"
 image:
     path: /images/2020-11-24/deno_background.jpg
 categories:
-    - coding
+    - server
 tags:
     - webprogramming
     - typescript

@@ -3,7 +3,7 @@ title: "웹 서버"
 image:
     path: /images/2020-11-24/jess-bailey-q10VITrVYUM-unsplash.jpg
 categories:
-    - coding
+    - server
 tags:
     - my_blog
     - webprogramming
