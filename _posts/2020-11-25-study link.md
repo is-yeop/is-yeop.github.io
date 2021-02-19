@@ -9,12 +9,13 @@ tags:
     - vim
     - bash
     - html
-last_modified: 2020-11-26T06:56:37
+last_modified: 2021-02-10T23:36:05
 comment: true
 ---
 
 # markdown
 - [markup cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [markdown code block language list](https://www.rubycoloredglasses.com/2013/04/languages-supported-by-github-flavored-markdown/)
 
 # html
 - [문장부호 코드 모음](http://leebh.net/class/dpub1/html-code.php)
