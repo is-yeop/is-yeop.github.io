@@ -1,4 +1,4 @@
-January 15, 2021.md
+January 15, 2021
 
 (python Join 오류 )[https://hyesun03.github.io/2017/04/08/python_int_join/]
 
