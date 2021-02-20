@@ -33,6 +33,10 @@ tags:
 last_modified: $(date "+%Y-%m-%dT%H:%M:%S")
 comment: true
 ---
+<head>
+    <base href="/images/${now}/${TITLE}/"/>
+</head>
+
 EOF
 
 # 열기
