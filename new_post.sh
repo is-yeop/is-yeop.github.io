@@ -2,10 +2,6 @@
 TITLE=$1
 CATEGORY=$2
 TAG=$3
-if [[ $TAG == "" ]]; then
-    TAG=$2
-fi
-
 
 # get time
 now=$(date "+%Y-%m-%d")
@@ -29,6 +25,7 @@ image:
 categories:
     - ${CATEGORY}
 tags:
+    - ${CATEGORY}
     - ${TAG}
 last_modified: $(date "+%Y-%m-%dT%H:%M:%S")
 comment: true
