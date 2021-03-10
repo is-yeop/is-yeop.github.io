@@ -35,3 +35,5 @@ comment: true
     - std out redirect `./excute > file.txt`
     - std err redirect `./excute 2> file.txt`
     - std out & err redirect `./excute 2& > file.txt`
+- [shell for 문 예제](https://cute772.tistory.com/166)
+
