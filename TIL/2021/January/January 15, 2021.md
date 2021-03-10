@@ -26,7 +26,3 @@ January 15, 2021
         logging.info('We processed %d records', len(processed_records))
         ```
     - [python loggin module](https://greeksharifa.github.io/파이썬/2019/12/13/logging/)
-
-[![yeop's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeop)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=is-yeop&layout=compact&show_icons=true&theme=dracula)
